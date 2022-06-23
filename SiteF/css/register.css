@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  background-color: #444;
+  overflow-x: hidden;
+
+}
+
+.navContainer{
+  position: absolute;
+  height: 10%;
+  width: 100%;
+  background-color: #333;
+  display: grid;
+  place-items: center;
+}
+
+.page{
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  height: 90%;
+  background-color: red;
+  display: flex;
+}
+
+.leftPage{
+  position: relative;
+  height: 100%;
+  width: 50%;
+  background-color: #FFF;
+  display: grid;
+  place-items: center;
+}
+
+.rightPage{
+  padding: 1rem;
+  position: relative;
+  height: 100%;
+  width: 50%;
+  background-color: none;
+}
+
+.text{
+  position: relative;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+.miniText{
+  position: relative;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 0.625vw;
+  margin: 0 auto;
+
+
+}
+
+.comble{
+    height: 15%;
+  display: grid;
+  place-items: center;
+}
+.container1{
+  position: relative;
+  left: 10%;
+  height: 10%; width: 89%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.container2{
+    position: relative;
+  left: 10%;
+  height: 10%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.container3{
+    position: relative;
+  left: 10%;
+  height: 10%;
+  width: 86%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.container4{
+  height: 10%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.inputField{
+  position :relative;
+  height: 75%;
+  width: 80%;
+  background-color: #FFF;
+  border-radius: 0.25rem;
+  border: none;
+  top: -25%;
+}
+
+.button{
+  position: relative;
+  left: 26%;
+  width: 50%;
+  height: 70%;
+  border-radius: 0.25rem;
+  background-color: #FF8A00;
+  margin-top: 1.25%;
+  display: grid;
+  place-items: center;
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.title{
+  position: relative;
+  color: #FF8A00;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  margin: 0 auto;
+}
+
+.balise{
+    position: relative;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  font-size: 10vh;
+  background-color: #FFF;
+}
+
+.orange{
+  position: relative;
+  color: #FF8A00;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  margin: 0 auto;
+}
