@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost:3306
--- Généré le : jeu. 14 juil. 2022 à 22:03
+-- Généré le : jeu. 14 juil. 2022 à 22:18
 -- Version du serveur :  5.7.24
 -- Version de PHP : 8.0.1
 
@@ -362,7 +362,7 @@ INSERT INTO `caf_trottinette` (`id_trottinette`, `etat_trottinette`, `km`, `lati
 CREATE TABLE `caf_utilisateur` (
   `id_client` int(11) NOT NULL,
   `statut` varchar(25) NOT NULL DEFAULT 'client',
-  `etat` tinyint(4) NOT NULL DEFAULT '0',
+  `etat` tinyint(4) NOT NULL DEFAULT '1',
   `cle` int(9) DEFAULT NULL,
   `nom` varchar(100) NOT NULL,
   `prenom` varchar(50) NOT NULL,
