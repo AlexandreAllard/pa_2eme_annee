@@ -1,0 +1,5 @@
+DirectoryIndex /Trotterfly/index.php
+
+ErrorDocument 401 /Trotterfly/401.php
+ErrorDocument 403 /Trotterfly/403.php
+ErrorDocument 404 /Trotterfly/404.php

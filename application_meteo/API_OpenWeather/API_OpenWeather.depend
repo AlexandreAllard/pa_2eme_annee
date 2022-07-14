@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1651343396 source:c:\users\camil\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+
+1650749235 source:c:\users\camil\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\function.c
+	<stdio.h>
+	<string.h>
+	<curl/curl.h>
+
+1651343368 source:c:\users\camil\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\function2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+	<mysql.h>
+
+1650755108 source:c:\users\camil\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\function3.c
+	<stdio.h>
+	<string.h>
+	<curl/curl.h>
+
+1651340120 source:c:\users\camil\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\functionbdd.c
+	<stdio.h>
+	<string.h>
+	<mysql.h>
+
+1654459474 source:c:\users\admin\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\function2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+	<mysql.h>
+
+1651343446 source:c:\users\admin\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\functionbdd.c
+	<stdio.h>
+	<string.h>
+	<mysql.h>
+
+1654459570 source:c:\users\admin\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+
+1657580271 source:c:\users\clacouture\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\function2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+	<mysql.h>
+
+1654459844 source:c:\users\clacouture\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\functionbdd.c
+	<stdio.h>
+	<string.h>
+	<mysql.h>
+
+1657579841 source:c:\users\clacouture\onedrive - reseau-ges\esgi cours\esgi cours a2\t2\pa\api_openweather\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+

@@ -1,0 +1,46 @@
+.text-center {
+  text-align: center !important;
+}
+
+.error {
+  color: #5a5c69;
+  font-size: 7rem;
+  position: relative;
+  line-height: 1;
+  width: 12.5rem;
+}
+
+.mr-auto,
+.mx-auto {
+  margin-right: auto !important;
+}
+
+
+.ml-auto,
+.mx-auto {
+  margin-left: auto !important;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.text-gray-500 {
+  color: #b7b9cc !important;
+}
+
+
+.mb-0,
+.my-0 {
+  margin-bottom: 0 !important;
+}
+
+.text-gray-800 {
+  color: #5a5c69 !important;
+}
+
+.mb-5,
+.my-5 {
+  margin-bottom: 3rem !important;
+}

@@ -1,0 +1,8 @@
+[API]
+url:https://api.openweathermap.org/data/2.5/forecast?q=Lyon&cnt=8&appid=51afad7cc0c0d035f55064f0b8944c0f&lang=fr
+
+[groupe SQL]
+hostname HOTE:localhost
+dbname NOM_BASE:trotterfly
+username USER:root
+pwd PASSWORD:root
